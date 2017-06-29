@@ -1,2 +1,2 @@
 # SBBHQK
-Algorítimo para comparações entre duas populações
+Algorítmo para comparações entre duas populações
